@@ -1,0 +1,16 @@
+{
+    "01": {
+        "name": "Earth Song",
+        "artist": "Micheal Jackson",
+        "youtube_url": "https://youtu.be/XAi3VTSdTxU?si=-8ukYxmC29T0fwgY",
+        "play_count": 0,
+        "rating": 5
+    },
+    "02": {
+        "name": "Sweater Weather",
+        "artist": "The Neighbourhood",
+        "youtube_url": "https://youtu.be/GCdwKhTtNNw?si=IC6TkSTf-dr7PHFf",
+        "play_count": 0,
+        "rating": 4
+    }
+}
